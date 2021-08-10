@@ -6,8 +6,8 @@ Esse programa não precisa de muita coisa para utilizar, foi feito para deixar a
 * Pronto, instalado com sucesso.
 
 # Detalhes dos atributos.
-* --nome = É obrigatório digitar o caminho entre parenteses "img-natureza.png".
-* --nova = Esse atributo é onde estará informando a nova extensão da sua imagem como "jpg".
+* "--nome" = Atributo que informna o caminho da imagem entre aspas "Imagem Natureza.jpg"(obrigatório aspas)
+* "--nova" = Esse atributo é onde estará informando a nova extensão da sua imagem como "jpg".
 
 # Resumindo
-* cImage --nome "img-natureza.png" --nova "jpg"
+* cImage --nome "Imagem Natureza.jpg" --nova png
