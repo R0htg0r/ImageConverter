@@ -11,4 +11,4 @@ Esse programa não precisa de muita coisa para utilizar, foi feito para deixar a
 * --nova = Esse atributo é onde estará informando a nova extensão da sua imagem como "jpg".
 
 # Resumindo
-* cImage --nome "img-natureza.png" --nova jpg
+* cImage --nome "img-natureza.png" --nova "jpg"
