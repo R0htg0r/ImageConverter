@@ -2,9 +2,8 @@
 Esse programa não precisa de muita coisa para utilizar, foi feito para deixar a vossa vida mais prática.
 
 # Instalação(Recomendada)
-* Mova "cImage.exe" par "C:\Windows\" para prático.
-* Acesse a Área de trabalho pela linha de comandos "cd desktop".
-* Pronto, agora digite (cImage --nome "Nome do Arquivo.png" --nova jpg)
+* Copie ou Mova o programa "cImage.exe" para dentro do "C:\Windows\"
+* Pronto, instalado com sucesso.
 
 # Detalhes dos atributos.
 * --nome = É obrigatório digitar o caminho entre parenteses "img-natureza.png".
