@@ -1,5 +1,5 @@
 # Conversor-de-Imagem
-Esse programa não precisa de muita coisa para utilizar, foi feito para deixar a vossa vida mais prática.
+Esse programa não precisa de muita coisa para ser utilizado.
 
 # Instalação(Recomendada)
 * Copie ou Mova o programa "cImage.exe" para dentro do "C:\Windows\"
