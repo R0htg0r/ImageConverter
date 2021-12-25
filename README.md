@@ -1,4 +1,4 @@
-# Conversor-de-Imagem
+# Conversor de Imagem
 Esse programa não precisa de muita coisa para ser utilizado.
 
 # Instalação(Recomendada)
